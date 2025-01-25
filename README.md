@@ -41,6 +41,7 @@ This project is built using a **microfrontend architecture** to promote modulari
    - **Local Data Processing**: Reduces dependency on cloud services during emergencies.
    - **Fail-Safe Operation**: Continuous access to critical response tools during connectivity disruptions.
 ### Screen capture
+
 ![WhatsApp Image 2024-10-27 at 01 18 19](https://github.com/user-attachments/assets/e6f97785-8065-4486-9fbe-a5c3a8d74623)
 
 ### Working Video
@@ -59,6 +60,7 @@ https://github.com/user-attachments/assets/43188689-d9b2-4d30-bdbd-8238855ff9b0
    - **Enhanced Safety Monitoring**: Tracks human movement patterns for better support.
 
      ### Screen Capture
+
      ![WhatsApp Image 2024-10-27 at 01 32 25](https://github.com/user-attachments/assets/f10422d5-1783-47bc-a7e8-83596df72e60)
 
      ### Working Video
@@ -77,6 +79,7 @@ https://github.com/user-attachments/assets/43188689-d9b2-4d30-bdbd-8238855ff9b0
    - **Content Curation**: Recommends videos, books, and resources to support mental health.
    - **Adaptive Learning**: Refines suggestions based on user preferences and mood changes.
      ### Screen capture
+
      ![WhatsApp Image 2024-10-27 at 11 51 00](https://github.com/user-attachments/assets/3abd9d46-a707-4791-954e-d11e96231810)
 
      ### Working Video
@@ -90,6 +93,7 @@ https://github.com/user-attachments/assets/43188689-d9b2-4d30-bdbd-8238855ff9b0
    - **Interactive Visualization**: Provides dynamic views of key metrics for decision-making.
    - **Predictive Insights**: Forecasts disaster impacts to allow preemptive actions.
      ### Screen capture
+
      ![Screenshot from 2024-10-27 13-29-48](https://github.com/user-attachments/assets/9c160e4f-223f-4b02-9a9c-cb47829dfc6d)
 
      ### Working Video
@@ -106,6 +110,7 @@ https://github.com/user-attachments/assets/43188689-d9b2-4d30-bdbd-8238855ff9b0
    - **Impact Prediction**: Forecasts disaster severity for optimal supply distribution.
    - **Resource Allocation Strategy**: Recommends prioritized deployment plans.
      ### Screen capture
+
      ![WhatsApp Image 2024-10-27 at 01 28 02](https://github.com/user-attachments/assets/c7313cd3-335b-44d2-9f5e-a76450f4f711)
 
      
@@ -117,6 +122,7 @@ https://github.com/user-attachments/assets/43188689-d9b2-4d30-bdbd-8238855ff9b0
    - **Discussion Forum**: Share advice and experiences to foster community engagement.
    - **Incident Reporting**: Contribute valuable information on local conditions.
      ### Screen capture
+
      ![WhatsApp Image 2024-10-27 at 01 29 58](https://github.com/user-attachments/assets/bf501ad9-f3f4-484b-af91-b96408c2d3c5)
 
      ### Working Video
@@ -130,6 +136,7 @@ https://github.com/user-attachments/assets/43188689-d9b2-4d30-bdbd-8238855ff9b0
    - **Responder Location Tracking**: Tracks the location of emergency responders.
    - **Response Playbook Generation**: Creates action plans to improve preparedness.
      ### Screen capture
+
      ![WhatsApp Image 2024-10-27 at 01 29 36](https://github.com/user-attachments/assets/f32d6caa-a7b8-4473-a89f-0df7f5da613b)
 
      ### Working Video
